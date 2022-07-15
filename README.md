@@ -2,7 +2,7 @@
 
 - This clone of Booking.com was done with React, It has 3 different pages (Home, List, Hotel)
 
-<!-- <img src='/public/trackerly.gif'> -->
+<img src='/public/booking.gif'>
 
 ## Tech used
 
